@@ -8,7 +8,7 @@
 1. On the Profile selection screen click "Import/Update"
 1. Click "Import new profile"
 1. Click "From code"
-1. Paste in 0190cc70-07fb-6d95-c79c-fbf255f42616 and click "Import"
+1. Paste in 0191064e-5c3d-5489-bb05-60402250012b and click "Import"
 1. You should have 116 mods downloading and installing for Lethal Company
 1. If any are out of date you will see a message with an "Update" button, feel free to click this
 1. Once the mods are downloaded and installed and you want to play then click "Modded" on the top right of the window
