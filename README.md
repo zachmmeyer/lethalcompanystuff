@@ -8,11 +8,12 @@
 1. On the Profile selection screen click "Import/Update"
 1. Click "Import new profile"
 1. Click "From code"
-1. Paste in 0191064e-5c3d-5489-bb05-60402250012b and click "Import"
-1. You should have 116 mods downloading and installing for Lethal Company
+1. Paste in 019113c5-d96d-37f6-fa26-5c3fa1e22675 and click "Import"
+1. You should have 113 mods downloading and installing for Lethal Company
 1. If any are out of date you will see a message with an "Update" button, feel free to click this
 1. Once the mods are downloaded and installed and you want to play then click "Modded" on the top right of the window
 1. The game will launch after first time setup is over, there will be a command prompt with logs, you can safely ignore it
+1. The game might launch in the background, you'll have to switch to it, it'll be the same icon as the command prompt (only one icon will display)
 1. The game has launched, click "Online (recommended)"
 1. Close out any messages that open over the main menu
 1. Optional: dress up your character with the green button on the bottom right!
