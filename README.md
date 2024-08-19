@@ -9,8 +9,8 @@
 1. Click "Import new profile"
 1. Click "From code"
 1. Copy one of these codes from below:
-    1. With skins (slow load): `01916869-1d40-fe6c-7aad-c849e51ab017`
-    1. Without skins (fast load): `01916869-ad22-d411-d9a9-491c347b748a`
+    1. With cosmetics (slow load): `01916869-1d40-fe6c-7aad-c849e51ab017`
+    1. Without without (fast load): `01916869-ad22-d411-d9a9-491c347b748a`
 1. Paste it and click "Import"
 1. You should have 113 mods downloading and installing for Lethal Company
 1. If any are out of date you will see a message with an "Update" button, feel free to click this
